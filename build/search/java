@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Job Scrapper</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
+</head>
+<body>
+    <main class="container">
+        <h1>Search Results for "java" :</h1>
+        <figure>
+            <table role="grid">
+                <thead>
+                    <tr>
+                        <th>Title</th>
+                        <th>Company</th>
+                        <th>Link</th>
+                    </tr>
+                </thead>
+                <tbody>
+                
+                    <tr>
+                        <td>Senior Web Engineer</td>
+                        <td>Tandem</td>
+
+                        <td><a href="https://berlinstartupjobs.com/engineering/senior-web-engineer-tandem/" target="_blank">Apply now &rarr; </a></td>                       
+                    </tr>
+                
+                    <tr>
+                        <td>Javascript Fullstack Engineer - Senior</td>
+                        <td>Lumenalta</td>
+
+                        <td><a href="https://weworkremotely.com/remote-jobs/lumenalta-javascript-fullstack-engineer-senior" target="_blank">Apply now &rarr; </a></td>                       
+                    </tr>
+                
+                    <tr>
+                        <td>Full Stack Javascript Developer (Shape Up + Small team)</td>
+                        <td>Inovo Studios</td>
+
+                        <td><a href="https://weworkremotely.com/remote-jobs/inovo-studios-full-stack-javascript-developer-shape-up-small-team-1" target="_blank">Apply now &rarr; </a></td>                       
+                    </tr>
+                
+                    <tr>
+                        <td>Blockchain Smart Contract Engineer</td>
+                        <td>Eliassen Group</td>
+
+                        <td><a href="https://web3.career/blockchain-smart-contract-engineer-eliassengroup/141369" target="_blank">Apply now &rarr; </a></td>                       
+                    </tr>
+                
+                    <tr>
+                        <td>Senior Consultant Software Engineer Crypto Program Hybrid Onsite</td>
+                        <td>visa</td>
+
+                        <td><a href="https://web3.career/senior-consultant-software-engineer-crypto-program-hybrid-onsite-visa/141339" target="_blank">Apply now &rarr; </a></td>                       
+                    </tr>
+                
+                    <tr>
+                        <td>Lead Software Engineer Crypto Program</td>
+                        <td>visa</td>
+
+                        <td><a href="https://web3.career/lead-software-engineer-crypto-program-visa/141338" target="_blank">Apply now &rarr; </a></td>                       
+                    </tr>
+                
+                    <tr>
+                        <td>Senior Permance QA Engineer</td>
+                        <td>Binance</td>
+
+                        <td><a href="https://web3.career/senior-performance-qa-engineer-binance/141324" target="_blank">Apply now &rarr; </a></td>                       
+                    </tr>
+                
+                    <tr>
+                        <td>Sr. Blockchain Engineer</td>
+                        <td>IntePros</td>
+
+                        <td><a href="https://web3.career/sr-blockchain-engineer-intepros/141316" target="_blank">Apply now &rarr; </a></td>                       
+                    </tr>
+                
+                    <tr>
+                        <td>Blockchain Developer</td>
+                        <td>Triveni IT</td>
+
+                        <td><a href="https://web3.career/blockchain-developer-triveniit/141315" target="_blank">Apply now &rarr; </a></td>                       
+                    </tr>
+                
+                    <tr>
+                        <td>Staff Software Engineer Crypto Program</td>
+                        <td>visa</td>
+
+                        <td><a href="https://web3.career/staff-software-engineer-crypto-program-visa/141301" target="_blank">Apply now &rarr; </a></td>                       
+                    </tr>
+                
+                    <tr>
+                        <td>Lead Software Engineer Mobile Development Crypto Wallets 100% remote</td>
+                        <td>Tether</td>
+
+                        <td><a href="https://web3.career/lead-software-engineer-mobile-development-crypto-wallets-100-remote-tether/141299" target="_blank">Apply now &rarr; </a></td>                       
+                    </tr>
+                
+                    <tr>
+                        <td>Lead Software Engineer Mobile Development Crypto Wallets 100% remote</td>
+                        <td>Tether</td>
+
+                        <td><a href="https://web3.career/lead-software-engineer-mobile-development-crypto-wallets-100-remote-tether/141298" target="_blank">Apply now &rarr; </a></td>                       
+                    </tr>
+                
+                    <tr>
+                        <td>Senior Technical Business Analyst</td>
+                        <td>Bcbgroup</td>
+
+                        <td><a href="https://web3.career/senior-technical-business-analyst-bcbgroup/141294" target="_blank">Apply now &rarr; </a></td>                       
+                    </tr>
+                
+                    <tr>
+                        <td>Backend Engineer E2 Trade</td>
+                        <td>Bitgo</td>
+
+                        <td><a href="https://web3.career/backend-engineer-e2-trade-bitgo/141263" target="_blank">Apply now &rarr; </a></td>                       
+                    </tr>
+                
+                    <tr>
+                        <td>Senior Software Engineer Settlement Systems Go Network</td>
+                        <td>Bitgo</td>
+
+                        <td><a href="https://web3.career/senior-software-engineer-settlement-systems-go-network-bitgo/141261" target="_blank">Apply now &rarr; </a></td>                       
+                    </tr>
+                
+                    <tr>
+                        <td>Senior Software Engineer</td>
+                        <td>Crypto Finance AG</td>
+
+                        <td><a href="https://web3.career/senior-software-engineer-cryptofinanceag/141230" target="_blank">Apply now &rarr; </a></td>                       
+                    </tr>
+                
+                    <tr>
+                        <td>Senior Staff Software Development Engineer</td>
+                        <td>Zscaler</td>
+
+                        <td><a href="https://web3.career/senior-staff-software-development-engineer-zscaler/106338" target="_blank">Apply now &rarr; </a></td>                       
+                    </tr>
+                
+                    <tr>
+                        <td>QA Engineer</td>
+                        <td>Launchpadtechnologiesinc</td>
+
+                        <td><a href="https://web3.career/qa-engineer-launchpadtechnologiesinc/79290" target="_blank">Apply now &rarr; </a></td>                       
+                    </tr>
+                
+
+                </tbody>
+            </table>
+        </figure>
+    </main>
+</body>
+</html> 

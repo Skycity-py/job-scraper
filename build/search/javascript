@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Job Scrapper</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
+</head>
+<body>
+    <main class="container">
+        <h1>Search Results for "javascript" :</h1>
+        <figure>
+            <table role="grid">
+                <thead>
+                    <tr>
+                        <th>Title</th>
+                        <th>Company</th>
+                        <th>Link</th>
+                    </tr>
+                </thead>
+                <tbody>
+                
+                    <tr>
+                        <td>Senior Fullstack Developer (Typescript / Javascript / Node.js)</td>
+                        <td>DATATRONiQ</td>
+
+                        <td><a href="https://berlinstartupjobs.com/engineering/senior-fullstack-developer-typescript-javascript-node-js-datatroniq/" target="_blank">Apply now &rarr; </a></td>                       
+                    </tr>
+                
+                    <tr>
+                        <td>Senior Go Backend Developer</td>
+                        <td>DATATRONiQ</td>
+
+                        <td><a href="https://berlinstartupjobs.com/companies/datatroniq/" target="_blank">Apply now &rarr; </a></td>                       
+                    </tr>
+                
+                    <tr>
+                        <td>E-Commerce Tech Specialist (m/w/d)</td>
+                        <td>VINOS</td>
+
+                        <td><a href="https://berlinstartupjobs.com/engineering/e-commerce-tech-specialist-m-w-d-wein-vinos-gmbh/" target="_blank">Apply now &rarr; </a></td>                       
+                    </tr>
+                
+                    <tr>
+                        <td>Javascript Fullstack Engineer - Senior</td>
+                        <td>Lumenalta</td>
+
+                        <td><a href="https://weworkremotely.com/remote-jobs/lumenalta-javascript-fullstack-engineer-senior" target="_blank">Apply now &rarr; </a></td>                       
+                    </tr>
+                
+                    <tr>
+                        <td>Full Stack Javascript Developer (Shape Up + Small team)</td>
+                        <td>Inovo Studios</td>
+
+                        <td><a href="https://weworkremotely.com/remote-jobs/inovo-studios-full-stack-javascript-developer-shape-up-small-team-1" target="_blank">Apply now &rarr; </a></td>                       
+                    </tr>
+                
+                    <tr>
+                        <td>Senior Full Stack Developer Blockchain</td>
+                        <td>AI Brainy Preparation</td>
+
+                        <td><a href="https://web3.career/senior-full-stack-developer-blockchain-aibrainypreparation/141374" target="_blank">Apply now &rarr; </a></td>                       
+                    </tr>
+                
+                    <tr>
+                        <td>Full Stack Developer Front End Leaning</td>
+                        <td>Winnables</td>
+
+                        <td><a href="https://web3.career/full-stack-developer-front-end-leaning-winnables/105877" target="_blank">Apply now &rarr; </a></td>                       
+                    </tr>
+                
+                    <tr>
+                        <td>Lead Software Engineer Crypto Program</td>
+                        <td>visa</td>
+
+                        <td><a href="https://web3.career/lead-software-engineer-crypto-program-visa/141338" target="_blank">Apply now &rarr; </a></td>                       
+                    </tr>
+                
+                    <tr>
+                        <td>Fullstack Engineer Node.js React</td>
+                        <td>S-PRO</td>
+
+                        <td><a href="https://web3.career/full-stack-engineer-node-js-react-spro/141329" target="_blank">Apply now &rarr; </a></td>                       
+                    </tr>
+                
+                    <tr>
+                        <td>Senior Web3 Developer</td>
+                        <td>IESF AG</td>
+
+                        <td><a href="https://web3.career/senior-web3-developer-iesfgroup/141309" target="_blank">Apply now &rarr; </a></td>                       
+                    </tr>
+                
+                    <tr>
+                        <td>Lead Software Engineer Mobile Development Crypto Wallets 100% remote</td>
+                        <td>Tether</td>
+
+                        <td><a href="https://web3.career/lead-software-engineer-mobile-development-crypto-wallets-100-remote-tether/141299" target="_blank">Apply now &rarr; </a></td>                       
+                    </tr>
+                
+                    <tr>
+                        <td>Lead Software Engineer Mobile Development Crypto Wallets 100% remote</td>
+                        <td>Tether</td>
+
+                        <td><a href="https://web3.career/lead-software-engineer-mobile-development-crypto-wallets-100-remote-tether/141298" target="_blank">Apply now &rarr; </a></td>                       
+                    </tr>
+                
+                    <tr>
+                        <td>Quality Assurance Engineer</td>
+                        <td>Brave</td>
+
+                        <td><a href="https://web3.career/quality-assurance-engineer-brave/46151" target="_blank">Apply now &rarr; </a></td>                       
+                    </tr>
+                
+                    <tr>
+                        <td>Front End Engineer Senior</td>
+                        <td>Cybrid</td>
+
+                        <td><a href="https://web3.career/front-end-engineer-senior-cybrid/141258" target="_blank">Apply now &rarr; </a></td>                       
+                    </tr>
+                
+                    <tr>
+                        <td>Senior Fullstack Blockchain Developer Remote</td>
+                        <td>ClanX</td>
+
+                        <td><a href="https://web3.career/senior-fullstack-blockchain-developer-remote-clanx/141254" target="_blank">Apply now &rarr; </a></td>                       
+                    </tr>
+                
+                    <tr>
+                        <td>Senior Blockchain Developer OnChain Aggregation</td>
+                        <td>Buidlpad</td>
+
+                        <td><a href="https://web3.career/senior-blockchain-developer-on-chain-aggregation-buidlpad/114531" target="_blank">Apply now &rarr; </a></td>                       
+                    </tr>
+                
+                    <tr>
+                        <td>Senior Software Engineer MetaMask Growth</td>
+                        <td>Consensys</td>
+
+                        <td><a href="https://web3.career/senior-software-engineer-metamask-growth-consensys/141192" target="_blank">Apply now &rarr; </a></td>                       
+                    </tr>
+                
+                    <tr>
+                        <td>Senior Software Development Engineer</td>
+                        <td>Zscaler</td>
+
+                        <td><a href="https://web3.career/senior-software-development-engineer-zscaler/106335" target="_blank">Apply now &rarr; </a></td>                       
+                    </tr>
+                
+                    <tr>
+                        <td>Engineering Manager</td>
+                        <td>Zinnia</td>
+
+                        <td><a href="https://web3.career/engineering-manager-zinnia/99444" target="_blank">Apply now &rarr; </a></td>                       
+                    </tr>
+                
+                    <tr>
+                        <td>Senior FullStack Developer</td>
+                        <td>Launchpadtechnologiesinc</td>
+
+                        <td><a href="https://web3.career/senior-full-stack-developer-launchpadtechnologiesinc/104256" target="_blank">Apply now &rarr; </a></td>                       
+                    </tr>
+                
+
+                </tbody>
+            </table>
+        </figure>
+    </main>
+</body>
+</html> 
