@@ -10,12 +10,43 @@
     <main class="container">
         <h1>Job Scrapper</h1>
         <h4>What job do you want?</h4>
-        <form action="/search">
-            <input type="text" name="keyword" 
-            placeholder="Write keyword please" title="키워드 입력"/>
-            <button>Search</button>
-        </form>
+        
+        <div>
+            <input type="text" id="keyword" placeholder="Write keyword please" title="키워드 입력" required />
+            <button onclick="searchJob()">Search</button>
+        </div>
         <p>You can search 'python', 'javascript', 'java'!</p>
+        
+        <div style="margin-top: 20px;">
+             <a href="search/python/index.html" role="button" class="outline">Python</a>
+             <a href="search/javascript/index.html" role="button" class="outline">Javascript</a>
+             <a href="search/java/index.html" role="button" class="outline">Java</a>
+        </div>
+
     </main>
+
+    <script>
+        function searchJob() {
+            
+            const input = document.getElementById("keyword");
+            const keyword = input.value.toLowerCase().trim(); // 소문자로 변환 및 공백 제거
+            
+            
+            if (!keyword) {
+                alert("Please enter a keyword!");
+                return;
+            }
+
+
+            window.location.href = `search/${keyword}`;
+        }
+
+
+        document.getElementById("keyword").addEventListener("keypress", function(event) {
+            if (event.key === "Enter") {
+                searchJob();
+            }
+        });
+    </script>
 </body>
-</html> 
+</html>
